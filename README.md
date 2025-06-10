@@ -1,6 +1,7 @@
 # GitHub Repository Creator
 
-This project provides a GitHub Actions workflow that utilizes Python to create repositories using GitHub Apps. It allows users to automate the process of repository creation directly from their GitHub account.
+This project provides
+a GitHub Actions workflow that utilizes Python to create repositories using GitHub Apps. It allows users to automate the process of repository creation directly from their GitHub account.
 
 ## Project Structure
 
